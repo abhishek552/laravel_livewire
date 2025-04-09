@@ -29,8 +29,8 @@ This project implements a full-featured Contact Form in Laravel with the followi
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/abhishek552/laravel_livewire.git
+cd laravel_livewire
 ```
 
 ### 2. Install Dependencies
